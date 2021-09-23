@@ -1,6 +1,7 @@
 A program to pull stock data from TDAmeritrade and NASDAQ
 
-How to Run:
+**How to Run:**
+
 1. Install the latest Python
 2. Install Poetry: https://python-poetry.org/docs/
 3. Install VSCode
